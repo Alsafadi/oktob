@@ -1,0 +1,14 @@
+nav:
+
+  - title: "Producter"
+    dropdown: "products"
+    section: products
+
+#  - title: "Om oss"
+#    dropdown:
+#    section: about
+
+  - title: "Kontakt"
+    dropdown:
+    section: contact
+    

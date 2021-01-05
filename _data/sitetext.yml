@@ -1,0 +1,48 @@
+header:
+    title: Oktob
+    text: "anpassade kalligrafiprodukter"
+    phone: 076 872 2033
+    button: Producter
+    buttonlink: "#products"
+    
+about:
+    title: "Oktob"
+    text: ""
+    section: about
+
+products:
+    title: "Oktob produkter"
+    text: ""
+    section: products
+    types:
+      - title: "Kalligrafi klistermärken"
+        subtitle: ""
+        image: ""
+        page: calligraphy-stickers
+      - title: "Klistermärke med din konst"
+        subtitle: 
+        image: ""
+        page: your-design
+      - title: "Värmepressutskärningar"
+        subtitle:
+        image: ""
+        page: heat-press
+      - title: "Anpassade bilklistermärken"
+        subtitle: 
+        image: ""
+        page: car-stickers
+
+         
+contact:
+    title: "Kontakt Oss!!!"
+    text: "kontakta oss om du har några frågor om våra produkter!"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.instagram.com/oktob.bel.arabi/
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
